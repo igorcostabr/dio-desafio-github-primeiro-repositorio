@@ -30,6 +30,12 @@ comando sha1
 openssl sha1 text.txt (exemplo)
 git add * (adiciona todas as alterações pra staged)
 
+git status (mostra o status do repositório local)
+git add -a (adiciona tudo que foi modificado para staged)
+git commit -m(commita adicionando uma mensagem)
+git push origin main (empurra para o repositório na nuvem)
+git push
+
 objetos do git
 blobs - 
 trees
